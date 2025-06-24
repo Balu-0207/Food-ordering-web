@@ -1,0 +1,38 @@
+/* src/pages/CategoriesPage.css */
+.categories-page {
+    padding: 20px;
+  }
+  
+  .categories-list {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
+  }
+  
+  .category-item {
+    background: white;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    padding: 10px;
+    width: 250px;
+    text-align: center;
+  }
+  
+  .category-item img {
+    width: 100%;
+    height: auto;
+    border-radius: 5px;
+  }
+  
+  .category-item h3 {
+    margin: 10px 0;
+    font-size: 18px;
+    color: #333;
+  }
+  
+  .category-item p {
+    font-size: 14px;
+    color: #666;
+  }
+  

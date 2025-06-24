@@ -1,0 +1,34 @@
+/* src/components/MealDetail.css */
+.meal-detail {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .meal-detail img {
+    width: 300px;
+    height: auto;
+    border-radius: 5px;
+  }
+  
+  .meal-detail p {
+    padding: 0 20px;
+    text-align: left;
+  }
+  
+  .meal-detail button {
+    padding: 10px 20px;
+    background-color: #f47c20;
+    color: white;
+    border: none;
+    cursor: pointer;
+    margin: 10px 0;
+  }
+  
+  .meal-detail button:hover {
+    background-color: #e36715;
+  }
+  
+  .meal-video {
+    margin-top: 20px;
+  }
+  
