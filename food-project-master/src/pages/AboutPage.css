@@ -1,0 +1,18 @@
+/* src/pages/AboutPage.css */
+.about-page {
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .about-page h2 {
+    margin-bottom: 20px;
+    font-size: 24px;
+    color: #333;
+  }
+  
+  .about-page p {
+    margin-bottom: 10px;
+    font-size: 16px;
+    color: #666;
+  }
+  
